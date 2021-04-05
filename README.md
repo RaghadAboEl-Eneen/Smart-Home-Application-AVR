@@ -13,14 +13,13 @@ Smart home application implemented using AVR Atmega32 and bluetotth module HC-05
 ### MCAL: (Microcontroller Abstraction Layer) 
 1. DIO
 2. ADC
-3. PORT
-4. GIE
-5. USART
-6. TIMER
+3. USART
+4. TIMER
 ### HAL: (Hardware Abstraction Layer)
 1. Servo Motor
-2. SSD (Seven Segment Display)
-3. LM35 sensor
-4. LDR sensor
-5. HC-05 bluetooth module
-6. Buzzer
+2. DC Motor
+3. SSD (Seven Segment Display)
+4. LM35 sensor
+5. LDR sensor
+6. HC-05 bluetooth module
+7. Buzzer
