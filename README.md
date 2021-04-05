@@ -15,6 +15,7 @@ Smart home application implemented using AVR Atmega32 and bluetotth module HC-05
 2. ADC
 3. USART
 4. TIMER
+5. GIE
 ### HAL: (Hardware Abstraction Layer)
 1. Servo Motor
 2. DC Motor
