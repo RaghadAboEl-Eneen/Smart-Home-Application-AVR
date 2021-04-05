@@ -24,3 +24,7 @@ Smart home application implemented using AVR Atmega32 and bluetooth module HC-05
 5. LDR sensor
 6. HC-05 bluetooth module
 7. Buzzer
+
+#Video:
+https://www.linkedin.com/posts/raghad-abo-el-eneen-01ba081ba_embeddedsystems-embedded-embeddedsoftware-activity-6784868163600429056-gg0E
+
